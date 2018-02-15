@@ -1,1 +1,1 @@
-Game X-vs-Zero
+Game Cross-vs-Zero
