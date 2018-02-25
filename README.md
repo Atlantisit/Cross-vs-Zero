@@ -1,16 +1,16 @@
-Game Tic Tac Toe.
+Tic Tac Toe game.
 
-Function list:
+__Function list:__
 
-__instruct()__ - instruction for the game;\n
+_instruct()_ - instruction for the game;\n
 
-ask_yes_no(question) - accepts text, returns 'y' or 'n';
+_ask_yes_no(question)_ - accepts text, returns 'y' or 'n';
 
-ask_number(question, low, higt()) - accepts text, returns an integer in the range low-hight;
+_ask\_number(question, low, higt())_ - accepts text, returns an integer in the range low-hight;
 
-chip() - Choose who plays first. Returns types of chips (X or 0);
+_chip()_ - Choose who plays first. Returns types of chips (X or 0);
 
-new_board() - creates a new game board, return the board;
+_`new_board()`_ - creates a new game board, return the board;
 
 available_moves() -  creates a list of available moves. Accepts the board, returns a list of available moves;
 
