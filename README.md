@@ -12,6 +12,8 @@ _`chip()`_ - Choose who plays first. Returns types of chips (X or 0);
 
 _`new_board()`_ - creates a new game board, return the board;
 
+_`display_board(board)`_ - prints board;
+
 _`available_moves()`_ -  creates a list of available moves. Accepts the board, returns a list of available moves;
 
 _`winner(board)`_ - print the winner of the game. Accepts the board, returns type of the winner chips (X or O), or a draw;
